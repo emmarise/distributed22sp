@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ServletSkier:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletSkier_war</output-path>
+    <root id="archive" name="ServletSkier_war.war">
+      <element id="artifact" artifact-name="ServletSkier:war exploded" />
+    </root>
+  </artifact>
+</component>
